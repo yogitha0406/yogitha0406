@@ -61,7 +61,7 @@ I am actively strengthening my analytical and problem-solving skills by working 
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOGITHA0406-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogitha0406/yogitha0406)
+[![GitHub][![GitHub](https://img.shields.io/badge/GitHub-YOGITHA0406-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogitha0406)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YOGITHA%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogitha-m-b3016b293)
 
 <br>
